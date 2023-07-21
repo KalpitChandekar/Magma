@@ -71,6 +71,10 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.bottom-page1-inner > button:hover{
+  cursor:pointer;
+  background-color: #0a3cce;
+}
 .bottom-page1-inner > button {
   padding: 10px 20px;
   border: none;
@@ -79,7 +83,6 @@ body {
   color: #0b48ed;
   font-size: 16px;
   font-weight: bold;
-  cursor: pointer;
 }
 .bottom-page1-inner > h4 {
   font-size: 1.4vw;
