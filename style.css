@@ -499,18 +499,17 @@ body {
     margin-top: -50px;
   }
   #page1 h1 {
-    font-size: 6%vw;
+    font-size: 6vw;
     font-weight: 600;
   }
   .bottom-page1-inner {
     margin-bottom: 140px;
-    width: 300px;
-   display: table-column;
+    width: 350px;
+    display: table-column;
   }
   .bottom-page1-inner > h4 {
-    font-size: 4vw;
-    font-weight: 140;
-    
+    font-size: 5vw;
+    font-weight: 500;
     color: #fff;
     margin-top: 30px;
     padding-bottom: 20px;
