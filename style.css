@@ -88,6 +88,7 @@ body {
   font-size: 1.4vw;
   font-weight: 100;
   color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
 }
 #page2 {
   display: flex;
@@ -504,12 +505,14 @@ body {
   .bottom-page1-inner {
     margin-bottom: 140px;
     width: 300px;
-
+   display: table-column;
   }
   .bottom-page1-inner > h4 {
     font-size: 3vw;
     font-weight: 100;
     color: #fff;
+    padding-bottom: 20px;
+    letter-spacing: 1.3px;
   }
   #page2 h1 {
     font-size: 5vw;
