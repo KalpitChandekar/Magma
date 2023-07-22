@@ -493,9 +493,9 @@ body {
 
 @media (max-width: 768px) {
   #page1 > nav > img {
-    width: 20%;
-    margin-left: -50px;
-    margin-top: -40px;
+    width: 50%;
+    margin-left: -90px;
+    margin-top: -50px;
   }
   #page1 h1 {
     font-size: 6vw;
